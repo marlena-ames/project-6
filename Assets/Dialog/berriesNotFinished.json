@@ -1,0 +1,1 @@
+{"inkVersion":21,"root":[["^Do you have my berries?","\n","ev","str","^No, not yet.","/str","/ev",{"*":"0.c-0","flg":4},{"c-0":["\n","^Well go and get them! No berries, no token.","\n",{"->":"0.g-0"},{"#f":5}],"g-0":["done",{"#f":5}]}],"done",{"#f":1}],"listDefs":{}}

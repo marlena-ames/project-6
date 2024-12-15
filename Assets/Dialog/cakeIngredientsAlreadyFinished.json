@@ -1,0 +1,1 @@
+{"inkVersion":21,"root":[["^You need anything else?","\n","ev","str","^Nope, just browsing.","/str","/ev",{"*":"0.c-0","flg":4},{"c-0":["\n","^Well, let me know if you find something you can't live without!","\n","end",{"->":"0.g-0"},{"#f":5}],"g-0":["done",{"#f":5}]}],"done",{"#f":1}],"listDefs":{}}

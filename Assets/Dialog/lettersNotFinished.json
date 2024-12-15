@@ -1,0 +1,1 @@
+{"inkVersion":21,"root":[["^Have you delivered my letter yet?","\n","ev","str","^No, not yet.","/str","/ev",{"*":"0.c-0","flg":4},{"c-0":["\n","^Please do it soon!","\n","end",{"->":"0.g-0"},{"#f":5}],"g-0":["done",{"#f":5}]}],"done",{"#f":1}],"listDefs":{}}

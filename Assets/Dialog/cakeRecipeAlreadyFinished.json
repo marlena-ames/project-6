@@ -1,0 +1,1 @@
+{"inkVersion":21,"root":[["^Hello again dear! How's Mavis doing with the cake?","\n","ev","str","^...Interestingly.","/str","/ev",{"*":"0.c-0","flg":4},{"c-0":["\n","^Oh dear...","\n","end",{"->":"0.g-0"},{"#f":5}],"g-0":["done",{"#f":5}]}],"done",{"#f":1}],"listDefs":{}}

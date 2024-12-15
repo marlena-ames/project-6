@@ -1,0 +1,1 @@
+{"inkVersion":21,"root":[["ev","str","^I have your berries.","/str","/ev",{"*":"0.c-0","flg":4},{"c-0":["\n","^You do? Wow, these look great! There are plenty for my pie. A deal's a deal. Here's your token.","\n","end",{"->":"0.g-0"},{"#f":5}],"g-0":["done",{"#f":5}]}],"done",{"#f":1}],"listDefs":{}}

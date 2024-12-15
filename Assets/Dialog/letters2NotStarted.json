@@ -1,0 +1,1 @@
+{"inkVersion":21,"root":[["ev","str","^I'm looking for a token.","/str","/ev",{"*":"0.c-0","flg":4},{"c-0":["\n","^A token? I don't have anything like that, but Stephen might! He lives in the house on the lane to the right.","\n","end",{"->":"0.g-0"},{"#f":5}],"g-0":["done",{"#f":5}]}],"done",{"#f":1}],"listDefs":{}}
